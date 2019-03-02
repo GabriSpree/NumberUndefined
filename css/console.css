@@ -6,7 +6,8 @@
   background: url('cool-bg2.png');
 }
 h1, h3, p, button {
-  background: transparent; 
+  background: transparent;
+  z-index: 999999;
 }
 .btn {
   border: 2px solid black;
