@@ -1,15 +1,10 @@
 /*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
 @import url('font.css');
 
-/* * {
-  font-family: Gibson,Arial,sans-serif;*/
-  h1, h3, p {
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 72px;
+* {
+  font-family: Gibson,Arial,sans-serif;
+  background-image: url('cool-bg.png');
 }
-/*}*/
 .btn {
   border: 2px solid black;
   border-radius: 5px;
