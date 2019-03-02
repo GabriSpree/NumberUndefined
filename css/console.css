@@ -5,6 +5,9 @@
   font-family: Gibson,Arial,sans-serif;
   background: url('cool-bg.png');
 }
+h1, h3, p, button {
+  background: transparent; 
+}
 .btn {
   border: 2px solid black;
   border-radius: 5px;
