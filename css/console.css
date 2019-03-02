@@ -3,7 +3,7 @@
 
 * {
   font-family: Gibson,Arial,sans-serif;
-  background-image: url('cool-bg.png');
+  background: url('cool-bg.png');
 }
 .btn {
   border: 2px solid black;
