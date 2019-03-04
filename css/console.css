@@ -8,6 +8,10 @@
 h1, h3, p, button {
   color: #FFFFFF;
 }
+a [href=https://www.000webhost.com/?utm_source=000webhostapp&utm_campaign=000_logo&utm_medium=website&utm_content=footer_img] {
+ display: none !important;
+  padding: 0,0,0,0 !important;
+}
 body {
  margin: 0px;
  overflow: hidden; 
